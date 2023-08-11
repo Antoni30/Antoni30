@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Antoni</h1>
 <h3 align="center">A passionate software developer from Ecuador who loves the Back-End very much, but the Front-End is not ugly, a very self-taught person who likes to learn new things every day, the phrase "Every day, something new is learned." It is something that defines me perfectly.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoni30&label=Profile%20views&color=0e75b6&style=flat" alt="antoni30" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoni30" alt="antoni30" /></a> </p>
+
 - 🔭 I’m currently working on [project Recmil](https://recmil-ecuador.vercel.app)
 
 - 🌱 I’m currently learning **Next.js, Prisma, Firebase and Tailwindcss**
@@ -28,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoni30&show_icons=true&locale=en" alt="antoni30" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antoni30&" alt="antoni30" /></p>
-
